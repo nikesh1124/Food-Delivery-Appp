@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://food-delivery-app-lwod.onrender.com'
+export const url = 'https://food-delivery-appp-backend.onrender.com'
